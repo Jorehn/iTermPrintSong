@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 # How to use:
 #        1. Save this file somewhere on your disk
 #        2. Set up iTerm2 to run a coprocess:
@@ -9,8 +8,6 @@
 #                         Add script path:         python /path/to/showSong.py
 #
 #        Pressing F5 in a Irssi window show print the songs playing in the channel
-#
-#
 #        by @marcusnilsen, 24.10.2013
 #
 
